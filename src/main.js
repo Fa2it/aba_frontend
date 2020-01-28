@@ -16,6 +16,7 @@ Vue.use(require('vue-moment'));
 
 Vue.config.productionTip = false
 
+
 new Vue({
   router,
   render: h => h(App),
